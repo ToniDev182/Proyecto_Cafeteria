@@ -1,0 +1,34 @@
+{
+  "name": "cafeteria",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS, Gulp, CSS Grid",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "- Antonio Atienza Cano",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "cssnano": "^7.0.6",
+    "gulp": "^5.0.0",
+    "gulp-avif": "^1.1.1",
+    "gulp-buffer": "^0.0.2",
+    "gulp-dart-sass": "^1.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^6.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "postcss": "^8.4.49",
+    "sass": "^1.83.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "dependencies": {
+    "gulp-webp": "^4.0.0"
+  }
+}
